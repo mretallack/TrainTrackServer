@@ -26,3 +26,10 @@ From Waymouth to Bournemouth
 5264, To 5256 ---- ASSUME CROSSING UP
 
 
+==========================================
+
+Also read:
+
+
+https://groups.google.com/forum/#!topic/openraildata-talk/yuENwWS6Rkw
+
