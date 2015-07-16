@@ -8,6 +8,8 @@ CFLAGS+=-Wall -g
 CFLAGS+=-Ithird-party/libstomp-master/src
 CFLAGS+=-I${JSON}/
 
+all: traintrack
+
 traintrack: libstomp.a src/train-track.o ${JSON}/cJSON.o
 	${CC} ${LDFLAGS} -o $@ src/train-track.o ${JSON}/cJSON.o libstomp.a
 
